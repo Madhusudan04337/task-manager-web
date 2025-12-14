@@ -56,23 +56,23 @@ task-manager/
 ### Installation
 
 1. Clone the repository or download the ZIP file:
-   \`\`\`bash
+   ```bash
    git clone <https://github.com/Madhusudan04337/task-manager-web.git>
    cd task-manager
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 ### Development
 
 Start the development server:
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 The application will be available at `http://localhost:5173` (or another port if 5173 is in use).
 
@@ -80,9 +80,9 @@ The application will be available at `http://localhost:5173` (or another port if
 
 Create an optimized production build:
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 The built files will be in the `dist` directory.
 
@@ -100,21 +100,21 @@ The built files will be in the `dist` directory.
 ### Deploy to Vercel
 
 1. Install Vercel CLI:
-   \`\`\`bash
+   ```bash
    npm install -g vercel
-   \`\`\`
+   ```
 
 2. Deploy:
-   \`\`\`bash
+   ```bash
    vercel
-   \`\`\`
+   ```
 
 ### Deploy to Netlify
 
 1. Build the project:
-   \`\`\`bash
+   ```bash
    npm run build
-   \`\`\`
+   ```
 
 2. Deploy the `dist` folder to Netlify via their CLI or drag-and-drop interface.
 
