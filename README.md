@@ -20,7 +20,7 @@ A modern, responsive task management application built with React and Vite. Orga
 
 ## Project Structure
 
-\`\`\`
+```
 task-manager/
 
 ├── src/
@@ -44,7 +44,7 @@ task-manager/
 ├── postcss.config.js
 ├── tailwind.config.js
 └── README.md
-\`\`\`
+```
 
 ## Getting Started
 
@@ -57,7 +57,7 @@ task-manager/
 
 1. Clone the repository or download the ZIP file:
    \`\`\`bash
-   git clone <repository-url>
+   git clone <https://github.com/Madhusudan04337/task-manager-web.git>
    cd task-manager
    \`\`\`
 
