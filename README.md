@@ -14,7 +14,7 @@ A modern, responsive task management application built with React and Vite. Orga
 
 - **React 19.2.0**: UI library
 - **Vite 7.2.4**: Fast build tool and development server
-- **Tailwind CSS 3.4.17**: Utility-first CSS framework
+- **Tailwind CSS 3.4.19**: Utility-first CSS framework
 - **Lucide React**: Beautiful icon library
 - **ESLint**: Code linting and quality
 
@@ -142,11 +142,6 @@ The built files will be in the `dist` directory.
 ### Moving Tasks
 
 Tasks are automatically organized by their status (todo, in-progress, done). Change the status in the edit modal to move tasks between columns.
-
-
-### Changing Priority Levels
-
-Modify the `TASK_PRIORITY` object in `src/utils/constants.js`.
 
 ### Styling
 
